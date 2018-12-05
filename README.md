@@ -1,6 +1,6 @@
 # Praat NCHLT plug-in
 
-## DESCRIPTION
+## Description
 
 This plugin enables Praat to search in the orthographic transcriptions of the
 [NCHLT Speech Corpus](http://mica.edu.vn/sltu2014/proceedings/28.pdf) and open the audio files of corresponding search results.
@@ -8,23 +8,23 @@ The NCHLT Speech Corpus contains orthographically transcribed broadband speech
 corpora for all of South Africa’s eleven official languages. Each language
 corpus consists of a large training suite (trn) and a smaller test suite (tst).
 The NCHLT Speech Corpus must be installed on your machine (at least one
-language) before using this plugin. The corpus may be obtained from [SADiLaR](https://repo.sadilar.org/discover?filtertype=project&filter_relational_operator=equals&filter=NCHLT+Speech)
+language) before using this plugin. The corpus may be obtained from [SADiLaR](https://repo.sadilar.org/discover?filtertype=project&filter_relational_operator=equals&filter=NCHLT+Speech).
 
 After launching from the Praat *Open* menu, you first select one of your installed languages, pick one of the suites, and specify a search pattern. The XML transcription is loaded into Praat and searched for the pattern. You can further refine the search using speaker attributes (gender, age, location). When you are done with searching you can view the results in a table (including orthographic transcription, speaker ID, age, gender, and location) and open corresponding audio files for acoustic analysis.
 
 
-## MANUAL
+## Manual
 
 A detailed manual is included: [manual.pdf](https://github.com/jouml/NCHLT-Praat-Plugin/blob/master/manual.pdf)
 
 
-## RECQUIREMENTS
+## Recquirements
 
 - [Praat](http://www.praat.org) 5.4.x or newer
 - [NCHLT Speech Corpus](https://repo.sadilar.org/discover?filtertype=project&filter_relational_operator=equals&filter=NCHLT+Speech) (at least one language)
 
 
-## INSTALLATION
+## Installation
 
 - quit Praat
 - Click *Clone or download* button and download ZIP archive (or click here: [Download ZIP](https://github.com/jouml/NCHLT-Praat-Plugin/archive/master.zip))
@@ -37,7 +37,7 @@ the included sub-directory `plugin_NCHLT` to the Praat preferences directory:
 - select the new item in Praat's *Open* menu: **NCHLT: Search corpus...**
 
 
-## USAGE
+## Usage
 
 When launched the first time, the plugin asks for the base directory of the NCHLT
 Speech Corpus. This is the directory/folder that contains the language-specific
@@ -104,7 +104,7 @@ one by one or you pick specific items identified in the table.
 
 
 
-## LICENSE
+## License
 
 This is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
