@@ -3,7 +3,7 @@
 ## DESCRIPTION
 
 This plugin enables Praat to search in the orthographic transcriptions of the
-NCHLT Speech Corpus and open the audio files of corresponding search results.
+[NCHLT Speech Corpus](http://mica.edu.vn/sltu2014/proceedings/28.pdf) and open the audio files of corresponding search results.
 The NCHLT Speech Corpus contains orthographically transcribed broadband speech
 corpora for all of South Africa’s eleven official languages. Each language
 corpus consists of a large training suite (trn) and a smaller test suite (tst).
