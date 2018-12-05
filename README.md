@@ -103,6 +103,27 @@ table. You can browse through all results and perform acoustic analysis either
 one by one or you pick specific items identified in the table.
 
 
+## Changelog
+
+### v1.0
+- support for new SADiLaR folder naming pattern
+- available on Github
+
+### v0.4
+- detailed manual added
+
+### v0.3
+- Python no longer required (slower but more robust)
+- regular expression search
+- filtering of search results
+
+### v0.2
+- usability improvements and bug fixes
+
+### v0.1
+- initial release
+- XML parsing with Python ElementTree
+
 
 ## License
 
