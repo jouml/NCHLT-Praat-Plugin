@@ -15,7 +15,7 @@ After launching from the Praat *Open* menu, you first select one of your install
 
 ## Manual
 
-A detailed manual is included (`manual.pdf`)
+A detailed manual is included: [manual.pdf](https://github.com/jouml/NCHLT-Praat-Plugin/blob/master/manual.pdf)
 
 
 ## RECQUIREMENTS
