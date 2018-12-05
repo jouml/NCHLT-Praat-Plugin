@@ -13,7 +13,7 @@ language) before using this plugin. The corpus may be obtained from [SADiLaR](ht
 After launching from the Praat *Open* menu, you first select one of your installed languages, pick one of the suites, and specify a search pattern. The XML transcription is loaded into Praat and searched for the pattern. You can further refine the search using speaker attributes (gender, age, location). When you are done with searching you can view the results in a table (including orthographic transcription, speaker ID, age, gender, and location) and open corresponding audio files for acoustic analysis.
 
 
-## Manual
+## MANUAL
 
 A detailed manual is included: [manual.pdf](https://github.com/jouml/NCHLT-Praat-Plugin/blob/master/manual.pdf)
 
