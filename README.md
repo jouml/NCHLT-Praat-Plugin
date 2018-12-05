@@ -26,9 +26,10 @@ A detailed manual is included (`manual.pdf`)
 
 ## INSTALLATION
 
-- Click *Clone or download* button and download ZIP archive
 - quit Praat
-- unzip and copy the directory 'plugin_NCHLT' to the Praat preferences directory:
+- Click *Clone or download* button and download ZIP archive (or click here: [Download ZIP](https://github.com/jouml/NCHLT-Praat-Plugin/archive/master.zip))
+- unzip, change into the newly created directory `NCHLT-Praat-Plugin-master`, and copy
+the included sub-directory `plugin_NCHLT` to the Praat preferences directory:
 	- Linux: `/home/your-username/.praat-dir/`
 	- macOS: `/Users/your-username/Library/Preferences/Praat Prefs/`
 	- Win: `C:\Users\your-username\Praat\` or `C:\Documents and Settings\your-username\Praat\`
