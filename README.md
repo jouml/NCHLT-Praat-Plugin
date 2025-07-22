@@ -1,12 +1,9 @@
-# Praat NCHLT plug-in
-
-
-## The Praat NCHLT plugin moved to [Codeberg](https://codeberg.org/joemayer/NCHLT-Praat-Plugin)
+# The Praat NCHLT plugin moved to [Codeberg](https://codeberg.org/joemayer/NCHLT-Praat-Plugin)
 
 Version 1.1 of the plugin (July 2025) supports the latest SADiLaR folder naming pattern and is available on [Codeberg](https://codeberg.org/joemayer/NCHLT-Praat-Plugin).
 
 
-**This repository is obsolete.**
+**This repository is obsolete!**
 
 
 ## Description
