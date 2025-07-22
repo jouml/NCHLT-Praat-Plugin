@@ -1,40 +1,41 @@
 # Praat NCHLT plug-in
 
+
+## The Praat NCHLT plugin moved to [Codeberg](https://codeberg.org/joemayer/NCHLT-Praat-Plugin)
+
+Version 1.1 of the plugin (July 2025) supports the latest SADiLaR folder naming pattern and is available on [Codeberg](https://codeberg.org/joemayer/NCHLT-Praat-Plugin).
+
+
+**This repository is obsolete.**
+
+
 ## Description
 
 This plugin enables Praat to search in the orthographic transcriptions of the
-[NCHLT Speech Corpus](http://mica.edu.vn/sltu2014/proceedings/28.pdf) and open the audio files of corresponding search results.
+[NCHLT Speech Corpus](https://www.isca-archive.org/sltu_2014/barnard14_sltu.pdf) and open the audio files of corresponding search results.
 The NCHLT Speech Corpus contains orthographically transcribed broadband speech
 corpora for all of South Africa’s eleven official languages. Each language
 corpus consists of a large training suite (trn) and a smaller test suite (tst).
 The NCHLT Speech Corpus must be installed on your machine (at least one
-language) before using this plugin. The corpus may be obtained from [SADiLaR](https://repo.sadilar.org/discover?filtertype=project&filter_relational_operator=equals&filter=NCHLT+Speech).
+language) before using this plugin. The corpus may be obtained from [SADiLaR](https://repo.sadilar.org/browse/project?value=NCHLT%20Speech&bbm.return=2).
 
 After launching from the Praat *Open* menu, you first select one of your installed languages, pick one of the suites, and specify a search pattern. The XML transcription is loaded into Praat and searched for the pattern. You can further refine the search using speaker attributes (gender, age, location). When you are done with searching you can view the results in a table (including orthographic transcription, speaker ID, age, gender, and location) and open corresponding audio files for acoustic analysis.
 
 
 ## Manual
 
-A detailed manual is included: [manual.pdf](https://github.com/jouml/NCHLT-Praat-Plugin/blob/master/manual.pdf)
+A detailed manual is included.
 
 
 ## Recquirements
 
 - [Praat](http://www.praat.org) 5.4.x or newer
-- [NCHLT Speech Corpus](https://repo.sadilar.org/discover?filtertype=project&filter_relational_operator=equals&filter=NCHLT+Speech) (at least one language)
+- [NCHLT Speech Corpus](https://repo.sadilar.org/browse/project?value=NCHLT%20Speech&bbm.return=2) (at least one language)
 
 
 ## Installation
 
-- quit Praat
-- Click *Clone or download* button and download ZIP archive (or click here: [Download ZIP](https://github.com/jouml/NCHLT-Praat-Plugin/archive/master.zip))
-- unzip, change into the newly created directory `NCHLT-Praat-Plugin-master`, and copy
-the included sub-directory `plugin_NCHLT` to the Praat preferences directory:
-	- Linux: `/home/your-username/.praat-dir/`
-	- macOS: `/Users/your-username/Library/Preferences/Praat Prefs/`
-	- Win: `C:\Users\your-username\Praat\` or `C:\Documents and Settings\your-username\Praat\`
-- launch Praat
-- select the new item in Praat's *Open* menu: **NCHLT: Search corpus...**
+Instructions available on [Codeberg](https://codeberg.org/joemayer/NCHLT-Praat-Plugin).
 
 
 ## Usage
